@@ -9,7 +9,7 @@
 [![Domains](https://img.shields.io/badge/Technology_Domains-09-purple?style=for-the-badge)](#-technology-divisions)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Community%20Driven-success?style=for-the-badge)](#-contributing)
 
-**Polum** is a multidisciplinary technology and engineering ecosystem bringing together advanced computing, artificial intelligence, mathematical sciences, financial engineering, cybersecurity, decentralized technologies, robotics, and digital creation.
+**Polum** is a  technology and engineering ecosystem bringing together advanced computing, artificial intelligence, mathematical sciences, financial engineering, cybersecurity, decentralized technologies, robotics, and digital creation.
 
 Designed as a unified environment for exploring ideas, conducting computational experiments, developing intelligent applications, and engineering solutions across interconnected technological domains.
 
