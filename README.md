@@ -466,7 +466,7 @@ Follow the individual project's documentation for environment setup and executio
 
 ## ◈ Contributing
 
-NEXUS welcomes developers, researchers, engineers, designers, and technology enthusiasts interested in interdisciplinary innovation.
+Polum welcomes developers, researchers, engineers, designers, and technology enthusiasts interested in interdisciplinary innovation.
 
 ### How to Contribute
 
