@@ -11,7 +11,7 @@
 
 **Polum** is a multidisciplinary technology and engineering ecosystem bringing together advanced computing, artificial intelligence, mathematical sciences, financial engineering, cybersecurity, decentralized technologies, robotics, and digital creation.
 
-Designed as a unified environment for exploring ideas, conducting computational experiments, developing intelligent applications, and engineering solutions across interconnected technological domains.
+ as a unified environment for exploring ideas, conducting computational experiments, developing intelligent applications, and engineering solutions across interconnected technological domains.
 
 > From mathematical abstractions to intelligent machines, from digital infrastructure to the frontiers of space — one ecosystem, limitless possibilities.
 
