@@ -37,9 +37,9 @@ Designed as a unified environment for exploring ideas, conducting computational 
 
 Modern technological breakthroughs rarely exist within a single discipline. Artificial intelligence intersects with scientific research, quantitative finance relies on mathematical modelling, robotics depends on control theory, and space engineering increasingly depends on intelligent autonomous systems.
 
-NEXUS aims to bring these interconnected disciplines into one collaborative development ecosystem.
+Polum aims to bring these interconnected disciplines into one collaborative development ecosystem.
 
-### What NEXUS brings together
+### What Polum brings together
 
 - **Research:** Explore scientific concepts, mathematical models, and emerging technologies.
 - **Engineering:** Design, develop, and test computational and physical systems.
