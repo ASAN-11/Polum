@@ -281,7 +281,7 @@ Polum follows a modular architecture designed to allow independent development w
 
 ```mermaid
 flowchart TB
-    A["NEXUS — Unified Ecosystem"]
+    A["Polum — Unified Ecosystem"]
 
     A --> B["Research & Science Layer"]
     A --> C["Intelligence Layer"]
@@ -326,7 +326,7 @@ flowchart TB
 ## ◈ Repository Structure
 
 ```text
-NEXUS/
+Polum/
 │
 ├── aerospace/
 │   ├── astrodynamics/
@@ -407,7 +407,7 @@ NEXUS/
 
 ## ◈ Development Roadmap
 
-- [ ] Establish the foundational repository architecture.
+- [x] Establish the foundational repository architecture.
 - [ ] Create documentation and contribution guidelines.
 - [ ] Set up shared development environments.
 - [ ] Establish all nine technology divisions.
