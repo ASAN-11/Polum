@@ -228,7 +228,7 @@ Engineering the software and hardware foundations that power modern computing.
 
 ## ◈ Core Capabilities
 
-NEXUS is organized around capabilities that can be shared across its nine divisions.
+Polum is organized around capabilities that can be shared across its nine divisions.
 
 | Capability | Description |
 |---|---|
@@ -277,7 +277,7 @@ NEXUS is organized around capabilities that can be shared across its nine divisi
 
 ## ◈ System Architecture
 
-NEXUS follows a modular architecture designed to allow independent development while supporting interoperability between divisions.
+Polum follows a modular architecture designed to allow independent development while supporting interoperability between divisions.
 
 ```mermaid
 flowchart TB
