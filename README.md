@@ -29,7 +29,6 @@ Designed as a unified environment for exploring ideas, conducting computational 
 - [Development Roadmap](#-development-roadmap)
 - [Getting Started](#-getting-started)
 - [Contribution Guidelines](#-contribution-guidelines)
-- [License](#-license)
 
 ---
 
