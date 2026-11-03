@@ -447,9 +447,9 @@ Additional dependencies vary between divisions.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NEXUS.git
+git clone https://github.com/ASAN-11/Polum.git
 
-cd NEXUS
+cd Polum
 ```
 
 ### Explore a Division
