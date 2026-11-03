@@ -1,4 +1,4 @@
-# ⚡ Engineering the Future
+# ⚡Polum
 
 ### Space Technology · Artificial Intelligence · Quantitative Finance · Cybersecurity · Web3 · Core Sciences · Robotics · 3D & Game Development · Systems Engineering
 
