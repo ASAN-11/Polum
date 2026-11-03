@@ -460,7 +460,7 @@ cd artificial-intelligence
 
 Follow the individual project's documentation for environment setup and execution.
 
-> NEXUS is modular. You do not need to install every technology or dependency to work on an individual division.
+> Polum is modular. You do not need to install every technology or dependency to work on an individual division.
 
 ---
 
