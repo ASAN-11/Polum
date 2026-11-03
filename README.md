@@ -1,8 +1,6 @@
 # Polum
 
-### Space Technology · Artificial Intelligence · Quantitative Finance · Cybersecurity · Web3 · Core Sciences · Robotics · 3D & Game Development · Systems Engineering
-
-Exploring the intersection of mathematics, computation, engineering, and emerging technologies — building intelligent systems, solving complex problems, and experimenting with ideas that push technological boundaries.
+### Exploring the intersection of mathematics, computation, engineering, and emerging technologies — building intelligent systems, solving complex problems, and experimenting with ideas that push technological boundaries.
 
 ---
 
