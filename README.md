@@ -45,7 +45,7 @@ Polum aims to bring these interconnected disciplines into one collaborative deve
 - **Intelligence:** Build AI-powered applications, predictive models, and autonomous agents.
 - **Simulation:** Experiment with financial markets, physical environments, robotic systems, and digital worlds.
 - **Infrastructure:** Develop secure, scalable, and high-performance software systems.
-- **Innovation:** Transform interdisciplinary ideas into functional projects and prototypes.
+- **Innovation:** Transform interdisciplinary ideas into functional  and prototypes.
 
 ---
 
