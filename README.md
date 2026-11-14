@@ -13,7 +13,7 @@
 
 Designed as a unified environment for exploring ideas, conducting computational experiments, developing intelligent applications, and engineering solutions across interconnected technological domains.
 
-> From mathematical abstractions to intelligent machines, from digital infrastructure to the frontiers of space — one ecosystem, limitless possibilities.
+> From  abstractions to intelligent machines, from digital infrastructure to the frontiers of space — one ecosystem, limitless possibilities.
 
 ---
 
