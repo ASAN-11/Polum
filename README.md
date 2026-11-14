@@ -2,7 +2,7 @@
  
 ### Frontier Technology · Computational Science · Intelligent Engineering
 
-**Engineering Intelligence. Exploring . Building Beyond Boundaries.**
+**Engineering Intelligence. Exploring Frontiers. Building Beyond Boundaries.**
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-gold?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
