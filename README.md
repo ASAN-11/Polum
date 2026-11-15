@@ -62,7 +62,7 @@ To establish an integrated environment where scientific research, computational 
 3. Build accessible tools for experimentation, simulation, and innovation.
 4. Explore emerging technologies through open-source development.
 5. Develop scalable, secure, and intelligent technological solutions.
-6. Foster collaboration between researchers, developers, engineers, and enthusiasts.
+6. Foster  between researchers, developers, engineers, and enthusiasts.
 
 ---
 
