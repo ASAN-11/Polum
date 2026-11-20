@@ -1,6 +1,6 @@
 # ⌬ Polum
  
-### Frontier Technology · Computational Science · Intelligent 
+### Frontier Technology · Computational Science · Intelligent Engineering
 
 **Engineering Intelligence. Exploring Frontiers. Building Beyond Boundaries.**
 
